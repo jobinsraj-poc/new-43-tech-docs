@@ -1,0 +1,9 @@
+site_name: "new-43"
+site_description: "new-43"
+
+nav:
+  - Introduction: index.md
+  - Getting Started: getting-started.md
+
+plugins:
+  - techdocs-core
